@@ -1,0 +1,45 @@
+body {
+    font-family: 'Merriweather', serif;
+   
+
+}
+
+/* a {
+    color: #4154f1;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #717ff5;
+    text-decoration: none;
+} */
+
+
+
+.text {
+    color: #6c7293 !important;
+}
+.white {
+    color: #ffffff !important;
+}
+
+.bgcolor1 {
+    background-color: #191c24;
+}
+
+.img {
+    object-fit: cover;
+}
+
+.bgcolor2 {
+    background-color: #000000;
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+    color: white !important;
+    /* Change la couleur du séparateur */
+}
+
+#main {
+    background-color: #000000;
+}
